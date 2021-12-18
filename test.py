@@ -9,3 +9,9 @@ def main():
 x = main()
 print("hi, fuck")
 
+
+class board:
+    def __init__(self) -> None:
+        pass
+
+
