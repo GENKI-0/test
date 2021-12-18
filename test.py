@@ -10,3 +10,4 @@ x = main()
 print(x)
 
 print(20)
+print(30)
