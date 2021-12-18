@@ -8,3 +8,5 @@ def main():
 
 x = main()
 print(x)
+
+print(20)
